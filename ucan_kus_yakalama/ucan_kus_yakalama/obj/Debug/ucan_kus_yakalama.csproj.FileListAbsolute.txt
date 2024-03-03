@@ -1,0 +1,9 @@
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\ucan_kus_yakalama\ucan_kus_yakalama\bin\Debug\ucan_kus_yakalama.exe.config
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\ucan_kus_yakalama\ucan_kus_yakalama\bin\Debug\ucan_kus_yakalama.exe
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\ucan_kus_yakalama\ucan_kus_yakalama\bin\Debug\ucan_kus_yakalama.pdb
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\ucan_kus_yakalama\ucan_kus_yakalama\obj\Debug\ucan_kus_yakalama.csprojResolveAssemblyReference.cache
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\ucan_kus_yakalama\ucan_kus_yakalama\obj\Debug\ucan_kus_yakalama.Form1.resources
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\ucan_kus_yakalama\ucan_kus_yakalama\obj\Debug\ucan_kus_yakalama.Properties.Resources.resources
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\ucan_kus_yakalama\ucan_kus_yakalama\obj\Debug\ucan_kus_yakalama.csproj.GenerateResource.Cache
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\ucan_kus_yakalama\ucan_kus_yakalama\obj\Debug\ucan_kus_yakalama.exe
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\ucan_kus_yakalama\ucan_kus_yakalama\obj\Debug\ucan_kus_yakalama.pdb

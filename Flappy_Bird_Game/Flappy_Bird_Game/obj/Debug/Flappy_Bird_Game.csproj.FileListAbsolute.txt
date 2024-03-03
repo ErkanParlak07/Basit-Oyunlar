@@ -1,0 +1,9 @@
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Flappy_Bird_Game\Flappy_Bird_Game\bin\Debug\Flappy_Bird_Game.exe.config
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Flappy_Bird_Game\Flappy_Bird_Game\bin\Debug\Flappy_Bird_Game.exe
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Flappy_Bird_Game\Flappy_Bird_Game\bin\Debug\Flappy_Bird_Game.pdb
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Flappy_Bird_Game\Flappy_Bird_Game\obj\Debug\Flappy_Bird_Game.csprojResolveAssemblyReference.cache
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Flappy_Bird_Game\Flappy_Bird_Game\obj\Debug\Flappy_Bird_Game.Form1.resources
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Flappy_Bird_Game\Flappy_Bird_Game\obj\Debug\Flappy_Bird_Game.Properties.Resources.resources
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Flappy_Bird_Game\Flappy_Bird_Game\obj\Debug\Flappy_Bird_Game.csproj.GenerateResource.Cache
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Flappy_Bird_Game\Flappy_Bird_Game\obj\Debug\Flappy_Bird_Game.exe
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\Flappy_Bird_Game\Flappy_Bird_Game\obj\Debug\Flappy_Bird_Game.pdb

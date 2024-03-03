@@ -1,0 +1,9 @@
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\uçan_top_oyunu\uçan_top_oyunu\bin\Debug\uçan_top_oyunu.exe.config
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\uçan_top_oyunu\uçan_top_oyunu\bin\Debug\uçan_top_oyunu.exe
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\uçan_top_oyunu\uçan_top_oyunu\bin\Debug\uçan_top_oyunu.pdb
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\uçan_top_oyunu\uçan_top_oyunu\obj\Debug\uçan_top_oyunu.csprojResolveAssemblyReference.cache
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\uçan_top_oyunu\uçan_top_oyunu\obj\Debug\uçan_top_oyunu.Form1.resources
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\uçan_top_oyunu\uçan_top_oyunu\obj\Debug\uçan_top_oyunu.Properties.Resources.resources
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\uçan_top_oyunu\uçan_top_oyunu\obj\Debug\uçan_top_oyunu.csproj.GenerateResource.Cache
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\uçan_top_oyunu\uçan_top_oyunu\obj\Debug\uçan_top_oyunu.exe
+c:\users\excalibur\onedrive\belgeler\visual studio 2015\Projects\uçan_top_oyunu\uçan_top_oyunu\obj\Debug\uçan_top_oyunu.pdb
